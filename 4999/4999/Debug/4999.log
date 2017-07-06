@@ -1,0 +1,5 @@
+﻿  4999.cpp
+c:\users\user\documents\visual studio 2017\projects\4999\4999\4999.cpp(6): warning C4101: 'asize' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2017\projects\4999\4999\4999.cpp(6): warning C4101: 'bsize' :참조되지 않은 지역 변수입니다.
+  4999.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\4999\Debug\4999.exe
+  4999.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\4999\Debug\4999.pdb (Partial PDB)

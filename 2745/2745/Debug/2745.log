@@ -1,0 +1,40 @@
+﻿  2745.cpp
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(30): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(33): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(36): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(39): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(42): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(45): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(48): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(51): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(54): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(57): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(60): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(63): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(66): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(69): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(72): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(75): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(78): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(81): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(84): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(87): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(90): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(93): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(96): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(99): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(102): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(105): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(108): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(111): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(114): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(117): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(120): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(123): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(126): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(129): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(132): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\2745\2745\2745.cpp(135): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2745.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\2745\Debug\2745.exe
+  2745.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\2745\Debug\2745.pdb (Partial PDB)

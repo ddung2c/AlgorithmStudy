@@ -1,0 +1,5 @@
+﻿  1009.cpp
+c:\users\user\documents\visual studio 2017\projects\1009\1009\1009.cpp(20): warning C4244: '=': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2017\projects\1009\1009\1009.cpp(22): warning C4244: '=': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1009.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\1009\Debug\1009.exe
+  1009.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\1009\Debug\1009.pdb (Partial PDB)

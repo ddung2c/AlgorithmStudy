@@ -1,0 +1,4 @@
+﻿  10892.cpp
+c:\users\user\documents\visual studio 2017\projects\10892\10892\10892.cpp(18): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+  10892.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\10892\Debug\10892.exe
+  10892.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\10892\Debug\10892.pdb (Partial PDB)

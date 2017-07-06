@@ -1,0 +1,4 @@
+﻿  1697.cpp
+c:\users\user\documents\visual studio 2017\projects\1697\1697\1697.cpp(50): warning C4715: 'bfs': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  1697.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\1697\Debug\1697.exe
+  1697.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\1697\Debug\1697.pdb (Partial PDB)
